@@ -1,7 +1,7 @@
 mydata = read.csv("example_data.csv")
 plot(mydata$xdata,mydata$ydata,col='red')
 
-# some guesses for the parameters.
+# some guesses for the parameters for p1 and p2.
 p1 = 1
 p2 = 0.2
 
